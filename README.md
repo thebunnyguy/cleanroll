@@ -6,14 +6,6 @@ The native iOS Photos app has no way to sort media by file size. CleanRoll fixes
 
 ---
 
-## Screenshots
-
-| Permission | Scanning | Grid (Sorted by Size) | Detail View |
-|---|---|---|---|
-| *Grant access screen* | *Progress banner* | *3-column square grid* | *Full metadata card* |
-
----
-
 ## Features
 
 - 📦 **Sort by file size** — largest first, smallest first
